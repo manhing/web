@@ -1,0 +1,1 @@
+Simple brochure-type website which uses HTML5 semantic elements and CSS3 media queries to be responsive.

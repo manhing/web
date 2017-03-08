@@ -1,0 +1,1 @@
+Registration, Login and use AJAX to query records. Records are received as JSON. Used QuickBlox for back end.
